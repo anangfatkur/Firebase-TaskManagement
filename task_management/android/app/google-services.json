@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "197438579595",
+    "project_id": "taskmanagent-sqlite",
+    "storage_bucket": "taskmanagent-sqlite.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197438579595:android:70d98bd9532feb8533458e",
+        "android_client_info": {
+          "package_name": "com.anangfatkur.task_management"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "197438579595-ap5a3m1libun51sqv3lg48c6coltm1ut.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzWJXIbytv4NppdyN3DcP-1F3oaloVpwc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "197438579595-ap5a3m1libun51sqv3lg48c6coltm1ut.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
